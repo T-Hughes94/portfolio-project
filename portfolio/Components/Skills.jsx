@@ -11,6 +11,7 @@ function Skills() {
       <li>Python</li>
       <li>Flask</li>
       <li>SQLalchemy</li>
+      <li>ChatGPT</li>
       {/* Add more skills as needed */}
     </ul>
   </section>
