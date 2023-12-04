@@ -3,6 +3,7 @@ import './App.css';
 import Bio from '/components/Bio';
 import Skills from '/components/Skills';
 import Projects from '/components/Projects';
+import Component from './Components/Component';
 
 function App() {
   return (
